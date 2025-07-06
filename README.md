@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/sarveshy200/sarveshy200/assets/105293807/1d5cca0e-f3d9-4c09-b0e9-44c709fd6bdd)
+
 
 <h3 align="center">A passionate backend developer from India</h3>
 
