@@ -1,4 +1,11 @@
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/f3e6d730-bb39-4b5f-afeb-309dd8d61635" />
+<img 
+  src="https://github.com/user-attachments/assets/5762123f-cfe4-4226-8a87-cd6ca59a1ce2" 
+  alt="Image" 
+  width="1536" 
+  height="1024"
+  style="border-radius: 20px;"
+/>
+
 
 <h3 align="center">A passionate backend developer from India</h3>
 
