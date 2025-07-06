@@ -2,10 +2,6 @@
 
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sarveshy200&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshy200" />
-</p>
-
 - 📫 How to reach me: **sarveshy200@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/1s0gbh-Q8bcEhCcyeEvfIwAkTEG8hQB9i/view?usp=sharing)
 
